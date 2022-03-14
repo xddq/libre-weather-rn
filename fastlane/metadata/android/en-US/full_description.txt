@@ -1,0 +1,4 @@
+- Libre weather app used to display a weather forecast.
+- Only required permission is INTERNET.
+- No location service, no tracking, no ads.
+- Webview Wrapper for the self hostable PWA from https://github.com/xddq/libre-weather.
