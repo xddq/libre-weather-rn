@@ -2,6 +2,10 @@
 
 - react-native webview wrapper for [libre-weather](https://github.com/xddq/libre-weather)
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.libreweatherrn/)
+
 #### LICENSE HEADER
 Libre Weather RN. A libre weather app used to display a weather forecast.
 
